@@ -1,0 +1,12 @@
+
+backend/.env
+frontend/node_modules
+frontend/package-lock.json
+backend/node_modules
+backend/package-lock.json
+socket/node_modules
+socket/package-lock.json
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
